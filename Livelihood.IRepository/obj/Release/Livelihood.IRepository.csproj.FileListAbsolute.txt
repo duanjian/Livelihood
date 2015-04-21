@@ -1,0 +1,7 @@
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.IRepository\bin\Release\Livelihood.IRepository.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.IRepository\bin\Release\Livelihood.IRepository.pdb
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.IRepository\bin\Release\Livelihood.Model.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.IRepository\bin\Release\Livelihood.Model.pdb
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.IRepository\obj\Release\Livelihood.IRepository.csprojResolveAssemblyReference.cache
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.IRepository\obj\Release\Livelihood.IRepository.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.IRepository\obj\Release\Livelihood.IRepository.pdb

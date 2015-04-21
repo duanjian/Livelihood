@@ -1,0 +1,4 @@
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Utils\bin\Debug\Livelihood.Utils.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Utils\bin\Debug\Livelihood.Utils.pdb
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Utils\obj\Debug\Livelihood.Utils.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Utils\obj\Debug\Livelihood.Utils.pdb

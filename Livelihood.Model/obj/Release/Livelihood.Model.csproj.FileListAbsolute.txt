@@ -1,0 +1,4 @@
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Model\bin\Release\Livelihood.Model.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Model\bin\Release\Livelihood.Model.pdb
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Model\obj\Release\Livelihood.Model.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Model\obj\Release\Livelihood.Model.pdb

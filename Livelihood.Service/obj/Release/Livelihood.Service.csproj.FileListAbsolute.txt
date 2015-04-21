@@ -1,0 +1,5 @@
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Service\bin\Release\Livelihood.Service.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Service\bin\Release\Livelihood.Service.pdb
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Service\obj\Release\Livelihood.Service.csprojResolveAssemblyReference.cache
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Service\obj\Release\Livelihood.Service.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.Service\obj\Release\Livelihood.Service.pdb

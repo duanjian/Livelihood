@@ -1,0 +1,14 @@
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\bin\Release\Livelihood.EntiryFramework.Repository.dll.config
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\bin\Release\Livelihood.EntiryFramework.Repository.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\bin\Release\Livelihood.EntiryFramework.Repository.pdb
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\bin\Release\EntityFramework.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\bin\Release\Livelihood.IRepository.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\bin\Release\Livelihood.Model.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\bin\Release\Livelihood.IRepository.pdb
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\bin\Release\Livelihood.Model.pdb
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\bin\Release\EntityFramework.xml
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\obj\Release\Livelihood.EntiryFramework.Repository.csprojResolveAssemblyReference.cache
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\obj\Release\Livelihood.EntiryFramework.Repository.dll
+C:\Users\duan jian\Desktop\Livelihood\Livelihood\Livelihood.EntiryFramework.Repository\obj\Release\Livelihood.EntiryFramework.Repository.pdb
